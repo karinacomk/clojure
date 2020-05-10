@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d30033a6-3415-4483-bcfa-4c9d146bf77e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1SRkGW6dVoanglQgz3WFrl52e7V" />
+  <component name="PropertiesComponent">
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../clojure-introducao-aula3" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="ReplState" timestamp="1571550514069">{:repl-history {:ide [], :local [{:command &quot;oi&quot;, :offset 2, :ns &quot;estoque.core&quot;} {:command &quot;(oi)&quot;, :offset 4, :ns &quot;estoque.core&quot;} {:command &quot;(println \&quot;oi\&quot;)&quot;, :offset 14, :ns &quot;estoque.core&quot;} {:command &quot;(use 'estoque.aula2')&quot;, :offset 21, :ns &quot;estoque.core&quot;} {:command &quot;(use 'estoque.aula2)&quot;, :offset 20, :ns &quot;estoque.core&quot;} {:command &quot;(println (aplica-desconto 100))&quot;, :offset 31, :ns &quot;estoque.aula2&quot;} {:command &quot;(use 'estoque.aula4)&quot;, :offset 20, :ns &quot;estoque.core&quot;} {:command &quot;precos&quot;, :offset 6, :ns &quot;estoque.core&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Clojure Application.aula6">
+    <configuration name="REPL for estoque" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="estoque" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="0" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula2" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="estoque" />
+      <setting name="path" value="$PROJECT_DIR$/src/estoque/aula2.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/src/estoque" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula3" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="estoque" />
+      <setting name="path" value="$PROJECT_DIR$/src/estoque/aula3.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/src/estoque" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula4" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="estoque" />
+      <setting name="path" value="$PROJECT_DIR$/src/estoque/aula4.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/src/estoque" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula6" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="estoque" />
+      <setting name="path" value="$PROJECT_DIR$/src/estoque/aula6.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/src/estoque" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Clojure Application.aula6" />
+        <item itemvalue="Clojure Application.aula4" />
+        <item itemvalue="Clojure REPL.REPL for estoque" />
+        <item itemvalue="Clojure Application.aula3" />
+        <item itemvalue="Clojure Application.aula2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d30033a6-3415-4483-bcfa-4c9d146bf77e" name="Default Changelist" comment="" />
+      <created>1571533699690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571533699690</updated>
+    </task>
+    <servers />
+  </component>
+</project>
