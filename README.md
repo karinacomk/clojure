@@ -1,6 +1,6 @@
 # estoque
 
-A Clojure library designed to ... to learn Clojure :)
+A Clojure library designed to ... learn Clojure :)
 
 ## Usage
 
